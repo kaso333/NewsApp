@@ -1,9 +1,3 @@
-//
-//  Zakladka4.swift
-//  Lab5
-//
-//  Created by Maciej Kazior on 09/06/2024.
-//
 
 import SwiftUI
 import URLImage
