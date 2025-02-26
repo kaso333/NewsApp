@@ -1,7 +1,3 @@
-//
-//  Zakladka1.swift
-//  Lab5
-//
 
 import SwiftUI
 import URLImage
