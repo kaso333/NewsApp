@@ -1,9 +1,3 @@
-//
-//  Zakladka3.swift
-//  Lab5
-//
-//  Created by Maciej Kazior on 27/05/2024.
-//
 
 import SwiftUI
 
