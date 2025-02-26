@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  Lab5
-//
-//  Created by Maciej Kazior on 25/05/2024.
-//
 
 import SwiftUI
 import FirebaseCore
